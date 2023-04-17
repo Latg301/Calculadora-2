@@ -1,0 +1,15 @@
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.csproj.AssemblyReference.cache
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.AssemblyInfoInputs.cache
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.AssemblyInfo.cs
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.csproj.CoreCompileInputs.cache
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\bin\Debug\net7.0\Calculdora2.exe
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\bin\Debug\net7.0\Calculdora2.deps.json
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\bin\Debug\net7.0\Calculdora2.runtimeconfig.json
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\bin\Debug\net7.0\Calculdora2.dll
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\bin\Debug\net7.0\Calculdora2.pdb
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.dll
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\refint\Calculdora2.dll
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.pdb
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\Calculdora2.genruntimeconfig.cache
+C:\Users\TATIANA\OneDrive\Documentos\Visual Studio 2022\Calculdora2\obj\Debug\net7.0\ref\Calculdora2.dll
